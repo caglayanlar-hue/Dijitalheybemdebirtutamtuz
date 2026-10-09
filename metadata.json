@@ -1,0 +1,6 @@
+{
+  "name": "Dijital Heybemde Bir Tutam Tuz",
+  "description": "Anlam Matrisinden Yapay Zeka Asistanına Kültürel Kodlar: Türk kültüründe tuzun semantik anlamlarını keşfeden interaktif folklor ve şifre çözme uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
